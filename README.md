@@ -1,4 +1,4 @@
-# Lung Disease Prediction Model
+# Chronic Obstructive Pulmonary Disease(COPED) Prediction Model
 
 ## Overview
 This repository contains code for a neural network-based lung disease prediction model. The model is built using TensorFlow and Keras, and it predicts the risk of lung disease based on various patient features.
